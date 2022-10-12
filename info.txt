@@ -1,0 +1,6 @@
+shape = [4, 41, 1440, 1440, 5] 
+padding = [0, 0, 0] 
+dilation = [1, 1, 1] 
+stride = [1, 1, 1] 
+groups = 1 
+subm = True
